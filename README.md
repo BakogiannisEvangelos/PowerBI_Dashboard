@@ -6,7 +6,7 @@ This repository is a collection of Power BI dashboards I've developed. It tracks
 
 Explore the dashboards below. Each has its own dedicated README with more details on the build process and specific features.
 
-# 1️⃣ Data Jobs Dashboard (V1 - Comprehensive Exploration)
+## 1️⃣ Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
 ![Data Jobs DB GIF](/images/Project1_Page1.png)
 
